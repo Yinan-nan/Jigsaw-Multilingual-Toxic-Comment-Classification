@@ -34,5 +34,5 @@ I am predicting the probability that a comment is toxic. A toxic comment would r
 all comments are classified as either a 1.0 or a 0.0
 
 # Result
-With DistilBERT model, achieve an accuracy of 0.8701.
+With DistilBERT model, achieve an accuracy of 0.8701.  
 With XLM-RoBERTa model, achieve an accuracy of 0.9383.
